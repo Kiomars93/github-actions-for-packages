@@ -64,4 +64,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: Kiomars93/tic-tac-toe:latest
+        tags: kiomars93/tic-tac-toe:latest
